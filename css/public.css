@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font-style: normal;
+	padding: 0;
+	list-style: none;
+	-webkit-tab-highlight-color: rgba(0, 0, 0, 0);/* 清楚背景有时会点出来的蓝色 */
+	box-sizing: border-box;
+}
+img{
+	width: 100%;
+	height: 100%;
+	border: 0px;
+	display: block;
+}
